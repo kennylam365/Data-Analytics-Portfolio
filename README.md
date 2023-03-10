@@ -33,15 +33,6 @@ Badge [source](https://shields.io/)
   - [Assumptions and findings](#assumptions-and-Findings)
   - [Lessons learned and recommendation](#lessons-learned-and-recommendation)
   - [Limitation and what can be improved](#limitation-and-what-can-be-improved)
-  - [Explore the notebook](#explore-the-notebook)
-  - [Deployment on streamlit](#deployment-on-streamlit)
-  - [Repository structure](#repository-structure)
-  - [Contribution](#contribution)
-  - [Blog post](#blog-post)
-  - [Project featuring](#project-featuring)
-  - [License](#license)
-
-
 
 
 ## Business problem
@@ -55,7 +46,7 @@ You are a junior data analyst working in the marketing analyst team at Cyclistic
 
 ## Programs used
 
-- R studio (data cleaning; refer to requirement.txt for the packages used in this project)
+- R studio (data cleaning; remember to install the libraries tidyverse, libridate, and ggplot2 so you can run the Rmd file)
 - Tableau (data vizualisation)
 
 ## Data cleaning process
