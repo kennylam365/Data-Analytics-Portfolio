@@ -81,7 +81,7 @@ Number of rides per day.
 
 Average ride length.
 
-![average ride length](assets/avg_ride_length.png)
+![average ride length](assets/avg_rides_length.png)
 
 Total rides per location.
 
