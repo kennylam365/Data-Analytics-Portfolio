@@ -1,14 +1,3 @@
-# Google DA Cyclistic Capstone
-This is my Google Data Analytics Cyclistic Capstone Project
-
-The raw data for my cyclistic capstone project is included in a url in the rmd file, remember to set the working directory accordingly and ensure that you have the required packages installed, (tidyverse, lubridate, and ggplot2)
-
-All visualizations created are done using tableau, and can be accessed using the link in the powerpoint slide or via this link: https://public.tableau.com/views/GoogleCyclisticCapstone/Avgridelength?:language=en-US&:display_count=n&:origin=viz_share_link. 
-
-Please start from the Cyclistic DA Capstone rmd file or the html file if RStudio is not installed, followed by the Cyclistic Capstone powerpoint.
-
-Thanks for reading
-
 ![banner](assets/cyclistic_banner.png)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/kennylam365/Google-DA-Cyclistic-Capstone)
@@ -119,5 +108,7 @@ Total rides per location.
 
 To explore the visualizations in the tableau file [Cyclistic-19.twbx](https://public.tableau.com/views/GoogleCyclisticCapstone/Avgridelength?:language=en-US&:display_count=n&:origin=viz_share_link)
 I am unable to upload it here as the file is too big, so please refer to the visualizations on tableau public instead. :)
+
+Please start from the Cyclistic DA Capstone rmd file or the html file if RStudio is not installed, followed by the Cyclistic Capstone powerpoint to have a better understanding.
 
 Thank you for reading
