@@ -117,5 +117,7 @@ Total rides per location.
 - The lack of data for the frequency of rides by each members; if this data was provided, more insightful analysis could be performed so we would better know which group of riders to best target.
 - A survey should be launched, and a more comprehensive data set can be provided.
 
+To explore the visualizations in the tableau file [Cyclistic-19.twbx](https://public.tableau.com/views/GoogleCyclisticCapstone/Avgridelength?:language=en-US&:display_count=n&:origin=viz_share_link)
+I am unable to upload it here as the file is too big, so please refer to the visualizations on tableau public instead. :)
 
 Thank you for reading
