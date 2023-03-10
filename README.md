@@ -110,7 +110,7 @@ Total rides per location.
 -    We also need to consider how casual rider have a lower frequency of using Cyclistic bike while also taking longer rides, we can offer them a special discount for an annual membership while emphasizing the value of an annual membership for infrequent riders, such as the ability to take longer rides without incurring extra fees.
 -    Finally, we can create referral programs that incentivize casual members to refer their friends and family to sign up for an annual membership. Offer rewards to both the referrer and the new member, such as discounted memberships or free rentals. This not only encourages casual members to upgrade to an annual membership but also expands our customer base by attracting new members through word-of-mouth referrals.
 
-    ***Note***: We also need to consider how often these casual riders ride their bikes, and as Cyclistic (Divvy) did not provide the numbers; more data is needed, and it is recommended that we launch a survey to look out for both the casual and annual member needs before considering our next steps.
+    **Note**: We also need to consider how often these casual riders ride their bikes, and as Cyclistic (Divvy) did not provide the numbers; more data is needed, and it is recommended that we launch a survey to look out for both the casual and annual member needs before considering our next steps.
 
 ## Limitation and what can be improved
 
